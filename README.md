@@ -44,3 +44,11 @@ Enter description here.
 Enter github link here. Enter jupyter notebook link here.
 
 Enter description here.
+
+## Courses & Certificates
+* Programming languages:
+  * Intro to Python (April 2020) (365 Data Science)
+  * [Automate the Boring Stuff with Python Programming](https://www.udemy.com/certificate/UC-4dd14984-5141-4d50-8d38-dfe7af4906b1/) (May 2020) (Udemy - Al Sweigart)
+  
+* Machine Learning:
+  * [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/certificate/UC-70ca0a85-cd1a-487c-9795-7686a89c1827/) (June 2020) (Udemy - Jose Portilla)

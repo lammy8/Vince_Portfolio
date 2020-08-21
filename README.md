@@ -2,10 +2,14 @@
 This portfolio is a collection of notebooks which I have created to further my knowledge on data analysis and machine learning algorithms. The projects have been categorised by type.
 
 ## Personal projects
+### Climbing crag selector
+
+### Golf tournament predictor
+
 ### London data scientist salary predictor
 Enter text here.
 
-### Family takeaway data analysis
+### Chinese takeaway analysis
 Enter text here.
 
 

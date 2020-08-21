@@ -1,4 +1,4 @@
-# Data science portfolio by Vincent Lam
+# Data Science Portfolio | Vincent Lam
 This portfolio is a collection of notebooks which I have created to further my knowledge on data analysis and machine learning algorithms. The projects have been categorised by type.
 
 ## Personal projects

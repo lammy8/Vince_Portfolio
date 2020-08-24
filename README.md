@@ -20,7 +20,10 @@ Enter text here.
 Enter github link here. Enter jupyter notebook link here.
 
 Enter description here.
- 
+
+### Rotten Tomatoes: Sentiment Analysis
+Used TensorFlow neural networks to solve the Sentiment Analysis on Movie Reviews Kaggle competition. The dataset contains syntactic subphrases of Rotten Tomatoes movie reviews. The task is to label the phrases as positive or negative on a scale from 1 to 5. The aim is not label the entire review, but individual phrases from within the reviews, which is a more difficult task.
+
 ## Regression problems
 ### House Prices: Advanced Regression Techniques
 Enter github link here. Enter jupyter notebook link here.

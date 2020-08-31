@@ -41,6 +41,7 @@ Enter github link here. Enter jupyter notebook link here.
 
 Enter description here.
 
+
 ## Clustering
 ### Clustering with KMeans
 Enter github link here. Enter jupyter notebook link here.
@@ -51,6 +52,12 @@ Enter description here.
 Enter github link here. Enter jupyter notebook link here.
 
 Enter description here.
+
+Breast Cancer - TensorFlow
+House Price Predictor - TensorFlow
+Bank Note Authentication - TensorFlow
+Loan Repayment Predictor - TensorFlow
+Movie Review Text Classification - TensorFlow
 
 ## Courses & Certificates
 * Programming languages:

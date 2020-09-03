@@ -13,16 +13,22 @@ Enter text here.
 Enter text here.
 
 
-## Kaggle Competitions
 
 ## Classification problems
-### Titanic: Machine Learning from Diaster
+### Titanic: Machine Learning from Diaster (Kaggle)
 Enter github link here. Enter jupyter notebook link here.
 
 Enter description here.
 
-### Rotten Tomatoes: Sentiment Analysis
-Used TensorFlow neural networks to solve the Sentiment Analysis on Movie Reviews Kaggle competition. The dataset contains syntactic subphrases of Rotten Tomatoes movie reviews. The task is to label the phrases as positive or negative on a scale from 1 to 5. The aim is not label the entire review, but individual phrases from within the reviews, which is a more difficult task.
+### Random Forest
+
+#### Kyphosis
+
+### Support Vector machines
+
+##### Breast Cancer
+
+#### Iris Flower
 
 ## Linear Regression problems
 ### House Prices: Advanced Regression Techniques
@@ -54,6 +60,8 @@ Enter github link here. Enter jupyter notebook link here.
 
 Enter description here.
 
+University clustering
+
 ## Neural networks
 Enter github link here. Enter jupyter notebook link here.
 
@@ -68,6 +76,12 @@ Bank Note Authentication - TensorFlow
 Loan Repayment Predictor - TensorFlow
 
 Movie Review Text Classification - TensorFlow
+
+
+### Rotten Tomatoes: Sentiment Analysis (Kaggle)
+Used TensorFlow neural networks to solve the Sentiment Analysis on Movie Reviews Kaggle competition. The dataset contains syntactic subphrases of Rotten Tomatoes movie reviews. The task is to label the phrases as positive or negative on a scale from 1 to 5. The aim is not label the entire review, but individual phrases from within the reviews, which is a more difficult task.
+
+
 
 ## Courses & Certificates
 * Programming languages:

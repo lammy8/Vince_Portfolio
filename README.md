@@ -53,6 +53,9 @@ Enter github link here. Enter jupyter notebook link here.
 
 Enter description here.
 
+### Spam text messages
+
+### Yelp reviews
 
 ## Clustering
 ### Clustering with KMeans

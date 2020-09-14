@@ -9,9 +9,7 @@ This portfolio is a collection of notebooks which I have created to further my k
 ### London data scientist salary predictor
 Enter text here.
 
-### Chinese takeaway analysis
-Enter text here.
-
+### COVID-19 visualisations
 
 
 ## Classification problems

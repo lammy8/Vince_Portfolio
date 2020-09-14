@@ -10,7 +10,7 @@ This portfolio is a collection of notebooks which I have created to further my k
 Enter text here.
 
 ### COVID-19 visualisations
-
+Interactive visualisations using pltoly library.
 
 ## Classification problems
 ### Titanic: Machine Learning from Diaster (Kaggle)

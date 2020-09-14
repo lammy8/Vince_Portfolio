@@ -12,6 +12,8 @@ Enter text here.
 ### COVID-19 visualisations
 Interactive visualisations using pltoly library.
 
+### London House Price Predictor
+
 ## Classification problems
 ### Titanic: Machine Learning from Diaster (Kaggle)
 Enter github link here. Enter jupyter notebook link here.

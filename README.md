@@ -24,6 +24,10 @@ Enter description here.
 
 #### Kyphosis
 
+### XGBoost
+
+#### Hourly Energy Consumption Forecasting
+
 ### Support Vector machines
 
 ##### Breast Cancer

@@ -9,8 +9,12 @@ This portfolio is a collection of notebooks which I have created to further my k
 ### London data scientist salary predictor
 Enter text here.
 
-### COVID-19 visualisations
+<details>
+<summary>COVID-19 visualisations</summary>
+
 Interactive visualisations using pltoly library.
+
+</details>
 
 ### London House Price Predictor
 
@@ -25,8 +29,12 @@ Enter description here.
 #### Kyphosis
 
 ### XGBoost
+<details>
+<summary>Hourly Energy Consumption Forecasting</summary>
 
-#### Hourly Energy Consumption Forecasting
+Enter findings and summary
+
+</details>
 
 ### Support Vector machines
 

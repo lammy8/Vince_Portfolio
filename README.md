@@ -11,7 +11,7 @@ This portfolio is a collection of notebooks which I have created to further my k
 </details>
 
 <details>
- <summary> <b>Golf tournament predictor</b></summary>
+ <summary><b>Golf tournament predictor</b></summary>
  The purpose of this porject is to ....
 
  Please see below findings:

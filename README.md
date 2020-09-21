@@ -2,21 +2,37 @@
 This portfolio is a collection of notebooks which I have created to further my knowledge on data analysis and machine learning algorithms. The projects have been categorised by type.
 
 ## Personal projects
-### Climbing crag selector
 
-### Golf tournament predictor
+<details>
+ <summary><b>Climbing crag selector</b></summary>
+ The purpose of this porject is to ....
+ 
+ Please see below findings:
+</details>
+
+<details>
+ <summary> <b>Golf tournament predictor</b></summary>
+ The purpose of this porject is to ....
+
+ Please see below findings:
+</details>
+
+
+<details>
+ <summary><b>COVID-19 analysis</b></summary>
+Interactive visualisations using plotly library.
+
+Used data from European Centre for Disease Prevention and Control to analyse trends around the world and in the UK.
+
+Visualisation of the infamous 'R' value.
+</details>
+
+### London House Price Predictor
+
 
 ### London data scientist salary predictor
 Enter text here.
 
-<details>
-<summary>COVID-19 visualisations</summary>
-
-Interactive visualisations using pltoly library.
-
-</details>
-
-### London House Price Predictor
 
 ## Classification problems
 ### Titanic: Machine Learning from Diaster (Kaggle)

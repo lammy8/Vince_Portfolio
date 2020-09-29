@@ -76,6 +76,14 @@ Enter description here.
 
 
 ## Natural lanugage procressing
+
+<details>
+ <summary><b>Amazon Fine Foods Sentiment Analysis</b></summary>
+ The purpose of this porject is to ....
+ 
+ Please see below findings:
+</details>
+
 ### Bag of Words
 Enter github link here. Enter jupyter notebook link here.
 

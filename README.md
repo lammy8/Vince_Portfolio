@@ -167,7 +167,7 @@ This notebook was created in conjunction with the Data Science Bootcamp course. 
 </details>
 
 <details>
- <summary><b>Spam text messages classifier reviews classification</b></summary>
+ <summary><b>Spam text messages classification</b></summary>
 The link to this notebook: https://github.com/vincentlam13/code/blob/master/natural-language-processing/spam-sms-NLP.ipynb
 
 This notebook was created in conjunction with the Data Science Bootcamp course. The aim of the notebook is to classify SMS messages into whether they are spam or legitimate messages.

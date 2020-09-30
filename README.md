@@ -179,10 +179,15 @@ This notebook was created in conjunction with the Data Science Bootcamp course. 
 
 </details>
 
-### Loan Prediction
-Enter github link here. Enter jupyter notebook link here.
 
-Enter description here.
+<details>
+ <summary><b>Ecommerce User Experience Linear Regression</b></summary>
+The link to this notebook: https://github.com/vincentlam13/code/blob/master/machine-learning/regression/linear-regression/ecommerce-linear-regression.ipynb
+
+This notebook was created in conjunction with the Data Science Bootcamp course. An Ecommerce company based in New York City that sells clothing online but they also have in-store style and clothing advice sessions. Customers come in to the store, have sessions/meetings with a personal stylist, then they can go home and order either on a mobile app or website for the clothes they want. The company is trying to decide whether to focus their efforts on their mobile app experience or their website. This notebook aims to solve their problem.
+
+</details>
+
 
 <details>
  <summary><b>Spam text messages classification</b></summary>

@@ -177,11 +177,27 @@ Enter description here.
 University clustering
 
 ## Neural networks
-Enter github link here. Enter jupyter notebook link here.
 
-Enter description here.
+### Classification
+<details>
+ <summary><b>Breast Cancer Classification using TensorFlow</b></summary>
 
-Breast Cancer - TensorFlow
+Link to notebook: https://github.com/vincentlam13/code/blob/master/deep-learning/TensorFlow/breast-cancer-TF-classification.ipynb
+
+This notebook was created in conjunction with the Data Science Bootcamp course.
+Used TensorFlow neural networks to classify patients' breast cancer as benign or malignant based on the size of the breast tumours features. 
+The TensorFlow model consisted of:
+- Three layers, going from 30 nodes to 15 to 1
+- The first two layers had a Rectified Linear Unit activation function, and the last was a sigmoid activation function
+- The loss function selected was binary crossentrophy and the optimiser was Adam
+- Earlystopping via validation loss was used to prevent further losses
+- Overfitting was prevented by using dropout layers, to turn off a percentage of neurons randomly
+
+#### Model Evauluation
+
+![Evulation of model ](images/breast-tensor-results.PNG)
+</details>
+
 
 House Price Predictor - TensorFlow
 

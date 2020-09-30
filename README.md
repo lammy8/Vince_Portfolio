@@ -54,9 +54,26 @@ Based on this data analysis we will be going to Blacknor South, Winspit, and Che
 
 <details>
  <summary><b>Golf tournament predictor</b></summary>
- The purpose of this porject is to ....
+ Link to project: https://github.com/vincentlam13/golf-tournament-predictor
+ 
+ 
+ - Created a tool to predict likely winners of PGA tournaments.
+- Scraped PGA stats website for useful determinative data.
+- Created new metrics to predict winners based on domain knowledge.
+- Created a script to send the DataFrame csv file to google sheets, using gspread (a Python API for Google Sheets).
+- Created a function to test model against historic data.
+ 
+ ## Testing Prediction Against Historic Tournaments
 
- Please see below findings:
+| Year  | Tournament  | Golfer  | Predictive Ranking  | Real Position  |
+|---|---|---|---|---|
+|  2019 | The Open Championship  | Brooks Koepka  |  11 |  4 |
+| 2018  | The Open Championship  | Justin Rose  | 4  | 2  |
+| 2017  | The Open Championship |  Jordan Spieth | 4  |  1 |
+| 2017  | US Open  |  Rickie Fowler | 2  |  5 |
+|  2016 | The Open Championship  | Sergio Garcia  | 6  | 5  |
+|  2014 | PGA Championship  | Rory Mcllroy  | 1  |  1 |
+
 </details>
 
 
@@ -135,7 +152,8 @@ Enter description here.
  
  The ROC curve shows that the Logistic Regression Classifier provided the best results. Although the AUC value can be improved further. We shall focus on using logistic regression for the remainder of this notebook.
  
- Visualisation of sentiment analysis of food reviews
+ #### Visualisation of sentiment analysis of food reviews
+ 
  ![Wordcloud of positive reviews](images/amazon-sentiment-wordcloud-useful.png)
  ![Wordcloud of negative reviews](images/amazon-sentiment-wordcloud-useless.png)
  

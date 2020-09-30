@@ -79,9 +79,24 @@ Enter description here.
 
 <details>
  <summary><b>Amazon Fine Foods Sentiment Analysis</b></summary>
- The purpose of this porject is to ....
  
- Please see below findings:
+ Link to project: https://github.com/vincentlam13/code/blob/master/natural-language-processing/sentiment-analysis/amazon-reviews-sentiment-analysis/amazon-reviews-sentiment-analysis.ipynb
+ 
+ The purpose of this notebook is to make a prediction model that predicts whether a recommendation is positive or negative. This will be achieved by building a Term-document incidence matrix using term frequency and inverse document frequency.
+ 
+ The performance of three machine learning algorithms were compared and visualised with a ROC curve:
+ - Multinomial Naive Bayes Classifier
+- Bernouli Naive Bayes Classifier
+- Logistic Regression
+
+ ![ROC Curve Classifier Comparison](images/amazon-sentiment-classifier-comparison.png)
+ 
+ The ROC curve shows that the Logistic Regression Classifier provided the best results. Although the AUC value can be improved further. We shall focus on using logistic regression for the remainder of this notebook.
+ 
+ Visualisation of sentiment analysis of food reviews
+ ![Wordcloud of positive reviews](images/amazon-sentiment-wordcloud-useful.png)
+ ![Wordcloud of negative reviews](images/amazon-sentiment-wordcloud-useless.png)
+ 
 </details>
 
 ### Bag of Words

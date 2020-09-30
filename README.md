@@ -116,11 +116,16 @@ This notebook was created in conjunction with the Data Science Bootcamp course. 
 </details>
 
 
-
-
 ### Random Forest
 
-#### Kyphosis
+<details>
+ <summary><b>Kyphosis Random Forest Classification</b></summary>
+ 
+The link to this notebook: https://github.com/vincentlam13/code/blob/master/machine-learning/classification/random-forest/kyphosis-with-decision-trees-and-random-forest.ipynb
+
+
+This notebook was created in conjunction with the Data Science Bootcamp course. The aim of the notebook is to classify whether or not a child has Kyphosis, a spinal condition, based on their age in months and number of vertebrae involved in the operation. This notebook compares the results between a decision tree and random forest classifier.
+</details>
 
 ### XGBoost
 <details>

@@ -159,14 +159,11 @@ This notebook was created in conjunction with the Data Science Bootcamp course. 
 </details>
 
 ## Linear Regression
-### House Prices: Advanced Regression Techniques
-Enter github link here. Enter jupyter notebook link here.
-
-Enter description here.
-
 <details>
  <summary><b>House Price Prediction</b></summary>
+ 
 The link to this notebook: https://github.com/vincentlam13/code/blob/master/machine-learning/regression/linear-regression/US-housing-linear-regression.ipynb
+
 
 This notebook was created in conjunction with the Data Science Bootcamp course. The aim of the notebook is to predict US house prices based on a number of features:
 - Average area income
@@ -184,16 +181,9 @@ This notebook was created in conjunction with the Data Science Bootcamp course. 
  <summary><b>Ecommerce User Experience Linear Regression</b></summary>
 The link to this notebook: https://github.com/vincentlam13/code/blob/master/machine-learning/regression/linear-regression/ecommerce-linear-regression.ipynb
 
+
 This notebook was created in conjunction with the Data Science Bootcamp course. An Ecommerce company based in New York City that sells clothing online but they also have in-store style and clothing advice sessions. Customers come in to the store, have sessions/meetings with a personal stylist, then they can go home and order either on a mobile app or website for the clothes they want. The company is trying to decide whether to focus their efforts on their mobile app experience or their website. This notebook aims to solve their problem.
 
-</details>
-
-
-<details>
- <summary><b>Spam text messages classification</b></summary>
-The link to this notebook: https://github.com/vincentlam13/code/blob/master/natural-language-processing/spam-sms-NLP.ipynb
-
-This notebook was created in conjunction with the Data Science Bootcamp course. The aim of the notebook is to classify SMS messages into whether they are spam or legitimate messages.
 </details>
 
 ## Natural Lanugage Processing
@@ -223,14 +213,18 @@ This notebook was created in conjunction with the Data Science Bootcamp course. 
 
 <details>
  <summary><b>Yelp reviews classification</b></summary>
+ 
 The link to this notebook: https://github.com/vincentlam13/code/blob/master/natural-language-processing/yelp-reviews-NLP.ipynb
+
 
 This notebook was created in conjunction with the Data Science Bootcamp course. The aim of the notebook is to classify Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews. 
 </details>
 
 <details>
  <summary><b>Spam text messages classification</b></summary>
+ 
 The link to this notebook: https://github.com/vincentlam13/code/blob/master/natural-language-processing/spam-sms-NLP.ipynb
+
 
 This notebook was created in conjunction with the Data Science Bootcamp course. The aim of the notebook is to classify SMS messages into whether they are spam or legitimate messages.
 </details>
@@ -267,7 +261,14 @@ The TensorFlow model consisted of:
 </details>
 
 
-House Price Predictor - TensorFlow
+<details>
+ <summary><b>House Price Predictor with TensorFlow</b></summary>
+
+Link to notebook: https://github.com/vincentlam13/code/blob/master/deep-learning/TensorFlow/house-price-predictor-TF-regression.ipynb
+
+This notebook was created in conjunction with the Data Science Bootcamp course.
+
+</details>
 
 Bank Note Authentication - TensorFlow
 

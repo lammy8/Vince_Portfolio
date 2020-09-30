@@ -191,9 +191,14 @@ Loan Repayment Predictor - TensorFlow
 
 Movie Review Text Classification - TensorFlow
 
+<details>
+ <summary><b>Rotten Tomatoes Movie Reviews Sentiment Analysis</b></summary>
 
-### Rotten Tomatoes: Sentiment Analysis (Kaggle)
+Link to notebook: https://github.com/vincentlam13/code/blob/master/deep-learning/TensorFlow/movie-reviews-TF-text-classification.ipynb
+
 Used TensorFlow neural networks to solve the Sentiment Analysis on Movie Reviews Kaggle competition. The dataset contains syntactic subphrases of Rotten Tomatoes movie reviews. The task is to label the phrases as positive or negative on a scale from 1 to 5. The aim is not label the entire review, but individual phrases from within the reviews, which is a more difficult task.
+
+</details>
 
 ## Recommendations Systems
 ### MovieLens 

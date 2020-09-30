@@ -241,26 +241,7 @@ This notebook was created in conjunction with the Data Science Bootcamp course. 
 
 ## Neural networks
 
-### Classification
-<details>
- <summary><b>Breast Cancer Classification using TensorFlow</b></summary>
-
-Link to notebook: https://github.com/vincentlam13/code/blob/master/deep-learning/TensorFlow/breast-cancer-TF-classification.ipynb
-
-This notebook was created in conjunction with the Data Science Bootcamp course.
-Used TensorFlow neural networks to classify patients' breast cancer as benign or malignant based on the size of the breast tumours features. 
-The TensorFlow model consisted of:
-- Three layers, going from 30 nodes to 15 to 1
-- The first two layers had a Rectified Linear Unit activation function, and the last was a sigmoid activation function
-- The loss function selected was binary crossentrophy and the optimiser was Adam
-- Earlystopping via validation loss was used to prevent further losses
-- Overfitting was prevented by using dropout layers, to turn off a percentage of neurons randomly
-
-#### Model Evauluation
-
-![Evulation of model ](images/breast-tensor-results.PNG)
-</details>
-
+### Regression
 
 <details>
  <summary><b>House Price Predictor with TensorFlow</b></summary>
@@ -288,6 +269,37 @@ The figure below shows that the loss and validation loss plots are similar and h
 ![House price prediction](/images/house-tensorflow-losses.png)
 
 </details>
+
+### Classification
+
+<details>
+ <summary><b>IMDB Reviews Sentiment Analysis</b></summary>
+
+Link to notebook: https://github.com/vincentlam13/code/blob/master/deep-learning/TensorFlow/movie-reviews-TF-text-classification.ipynb
+
+Used TensorFlow neural networks to solve the Sentiment Analysis on Movie Reviews Kaggle competition. The dataset contains syntactic subphrases of Rotten Tomatoes movie reviews. The task is to label the phrases as positive or negative on a scale from 1 to 5. The aim is not label the entire review, but individual phrases from within the reviews, which is a more difficult task.
+
+</details>
+
+<details>
+ <summary><b>Breast Cancer Classification using TensorFlow</b></summary>
+
+Link to notebook: https://github.com/vincentlam13/code/blob/master/deep-learning/TensorFlow/breast-cancer-TF-classification.ipynb
+
+This notebook was created in conjunction with the Data Science Bootcamp course.
+Used TensorFlow neural networks to classify patients' breast cancer as benign or malignant based on the size of the breast tumours features. 
+The TensorFlow model consisted of:
+- Three layers, going from 30 nodes to 15 to 1
+- The first two layers had a Rectified Linear Unit activation function, and the last was a sigmoid activation function
+- The loss function selected was binary crossentrophy and the optimiser was Adam
+- Earlystopping via validation loss was used to prevent further losses
+- Overfitting was prevented by using dropout layers, to turn off a percentage of neurons randomly
+
+#### Model Evauluation
+
+![Evulation of model ](images/breast-tensor-results.PNG)
+</details>
+
 
 <details>
  <summary><b>Bank Note Authentication TensorFlow Classification</b></summary>
@@ -318,24 +330,20 @@ This notebook was created in conjunction with the Data Science Bootcamp course. 
 
 </details>
 
-Movie Review Text Classification - TensorFlow
-
-<details>
- <summary><b>Rotten Tomatoes Movie Reviews Sentiment Analysis</b></summary>
-
-Link to notebook: https://github.com/vincentlam13/code/blob/master/deep-learning/TensorFlow/movie-reviews-TF-text-classification.ipynb
-
-Used TensorFlow neural networks to solve the Sentiment Analysis on Movie Reviews Kaggle competition. The dataset contains syntactic subphrases of Rotten Tomatoes movie reviews. The task is to label the phrases as positive or negative on a scale from 1 to 5. The aim is not label the entire review, but individual phrases from within the reviews, which is a more difficult task.
-
-</details>
-
 ## Recommendations Systems
 ### MovieLens 
 
 ## Courses & Certificates
+
+* Machine Learning:
+  * [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/certificate/UC-70ca0a85-cd1a-487c-9795-7686a89c1827/) (June 2020) (Udemy - Jose Portilla)
+
+* SQL:
+  * SQL for Data Analysis (Udacity)
+  
+* PowerBI:
+  * [Microsoft Power BI - Up & Running with Power BI Desktop](https://www.udemy.com/certificate/UC-02014d8f-874f-4e5c-8ec5-c6e5d602ac0f/) (September 2020) (Udemy - Maven Analytics)
+
 * Programming languages:
   * Intro to Python (April 2020) (365 Data Science)
   * [Automate the Boring Stuff with Python Programming](https://www.udemy.com/certificate/UC-4dd14984-5141-4d50-8d38-dfe7af4906b1/) (May 2020) (Udemy - Al Sweigart)
-  
-* Machine Learning:
-  * [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/certificate/UC-70ca0a85-cd1a-487c-9795-7686a89c1827/) (June 2020) (Udemy - Jose Portilla)

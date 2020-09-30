@@ -5,7 +5,49 @@ This portfolio is a collection of notebooks which I have created to further my k
 
 <details>
  <summary><b>Climbing crag selector</b></summary>
- The purpose of this porject is to ....
+ Link to project: https://github.com/vincentlam13/climbing-crag-selection
+ 
+ - Created a tool to help decide which climbing crags to focus on for future climbing trips, with the goal to improve the climbing grades of my friends and I.
+- Scraped over 4000 routes/problems for the climbing destination in question.
+- I will update this repositry as I analyse more climbing destinations and update whether my efforts were successful.
+
+### EDA
+Below are a few insights gleamed from the routes analysis.
+
+Breakdown of climbing disciplines in Dorset
+
+![Climbing disciplines in Dorset](/images/climbing-disciplines.png)
+
+Breakdown of sport grade distribution
+
+![Sport grade distribution](/images/climbing-sport-grade-distribution.png)
+
+7a routes sorted by number of logs
+
+![7a routes sorted by popularity](/images/climbing-logged-7a.PNG)
+
+I filtered out crags that had at least two 7a routes that had been logged 100 times on ukc.
+
+![Chosen crags](/images/climbing-crags.PNG)
+
+
+Based on this data analysis we will be going to Blacknor South, Winspit, and Cheyne Weares Area. The list of potential routes are shown in table below.
+
+|  Crag | Route  | Star | Height (m)  | Notes  |
+|---|---|---|---|---|
+| Blacknor South  | Sacred Angel  | ** | 15  | Easy up to ledge, then fingery crux with pockets |
+| Blacknor South  | To Wish the Impossible   | *** | 20  | Sustained with delicate & fingery climbing, lots of rests, big moves off jugs  |
+| Winspit  | Peppercorn Rate  | **  | 20  | Tough and pumpy with a blind crack  | 
+| Winspit  | Exuberence  |  * | 20  | One hard bit at top, not so many onsightsbut alot of redpoints  | 
+| Winspit  | Ancient order of Freemarblers  | **  | 20  | Steep stamina climbing, decent proportion of onsights  | 
+| Winspit  | Gallows' Gore  |  ** | 20  | Powerful start about a V3/V4, but high rate of onsight and redpoints  | 
+| Winspit  | Agonies of a Dying Mind  |  * | 20  | Powerful start about a V3/V4, but high rate of onsight and redpoints  | 
+| Cheyne Weares Area  | The Accelerator  | *  | 7  |  Sounds super soft and pump shouldn't be a factor! | 
+
+### Future Improvements
+- Automate the analysis process for future climbing trips, likely destinations include the Peak Districtm Southern Sandstone, Costa Blanca, and Chamonix.
+- Screenshot and scrape the bar chart information on style of ascents and voting of the route diffulty, and sort the routes by highest percent that have been onsighted or by 'softness'. Example shown below.
+
  
  Please see below findings:
 </details>

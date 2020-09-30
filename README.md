@@ -95,14 +95,28 @@ Enter text here.
 
 ## Classification problems
 
-### Logistic Regression problems
-#### Advertising Data
+### Logistic Regression
+<details>
+ <summary><b>Titanic Survivor Logistic Classifcation</b></summary>
+ 
+The link to this notebook: https://github.com/vincentlam13/code/blob/master/machine-learning/regression/logistic-regression/titanic-logistic.ipynb
+ 
 
-### Titanic Logistic
-### Titanic: Machine Learning from Diaster (Kaggle)
-Enter github link here. Enter jupyter notebook link here.
+This notebook was created in conjunction with the Data Science Bootcamp course. The aim of the notebook is to use logistic regression to classify whether or not a passenger on the Titanic survived based on passenger information.
+</details>
 
-Enter description here.
+
+<details>
+ <summary><b>Advert Click Logistic Classifcation</b></summary>
+ 
+The link to this notebook: https://github.com/vincentlam13/code/blob/master/machine-learning/regression/logistic-regression/advertising-data.ipynb
+
+
+This notebook was created in conjunction with the Data Science Bootcamp course. The aim of the notebook is to classify whether or not a particular internet user clicked on an Advertisement. A logistic regression model will predict whether or not they will click on an ad based off the features of that user.
+</details>
+
+
+
 
 ### Random Forest
 

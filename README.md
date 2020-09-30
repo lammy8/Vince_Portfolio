@@ -94,6 +94,11 @@ Enter text here.
 
 
 ## Classification problems
+
+### Logistic Regression problems
+#### Advertising Data
+
+### Titanic Logistic
 ### Titanic: Machine Learning from Diaster (Kaggle)
 Enter github link here. Enter jupyter notebook link here.
 
@@ -127,11 +132,6 @@ Enter description here.
 Enter github link here. Enter jupyter notebook link here.
 
 Enter description here.
-
-## Logistic Regression problems
-### Advertising Data
-
-### Titanic Logistic
 
 
 ## Natural lanugage procressing

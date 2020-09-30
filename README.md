@@ -135,13 +135,30 @@ Enter findings and summary
 
 </details>
 
-### Support Vector machines
+### Support Vector Machines
 
-##### Breast Cancer
+<details>
+ <summary><b>Breast Cancer SVM Classification</b></summary>
+ 
+The link to this notebook: https://github.com/vincentlam13/code/blob/master/machine-learning/classification/support-vector-machines/breast-cancer-SVM.ipynb
 
-#### Iris Flower
 
-## Linear Regression problems
+This notebook was created in conjunction with the Data Science Bootcamp course.
+Used Support Vector Machine classifier to predict whether a patient's breast cancer is benign or malignant based on the size of the breast tumour features. A gridsearch was incorporated to find the best parameters.
+</details>
+
+
+
+<details>
+ <summary><b>Iris Flower SVM Classification</b></summary>
+ 
+The link to this notebook: https://github.com/vincentlam13/code/blob/master/machine-learning/classification/support-vector-machines/iris-flower-SVM.ipynb
+
+
+This notebook was created in conjunction with the Data Science Bootcamp course. The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor), so 150 total samples. Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters. This notebook uses these four features to predict what type of iris flower it is, using a support vector machine classifier.
+</details>
+
+## Linear Regression
 ### House Prices: Advanced Regression Techniques
 Enter github link here. Enter jupyter notebook link here.
 
@@ -153,7 +170,7 @@ Enter github link here. Enter jupyter notebook link here.
 Enter description here.
 
 
-## Natural lanugage procressing
+## Natural Lanugage Processing
 
 <details>
  <summary><b>Amazon Fine Foods Sentiment Analysis</b></summary>

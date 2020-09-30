@@ -164,11 +164,32 @@ Enter github link here. Enter jupyter notebook link here.
 
 Enter description here.
 
+<details>
+ <summary><b>House Price Prediction</b></summary>
+The link to this notebook: https://github.com/vincentlam13/code/blob/master/machine-learning/regression/linear-regression/US-housing-linear-regression.ipynb
+
+This notebook was created in conjunction with the Data Science Bootcamp course. The aim of the notebook is to predict US house prices based on a number of features:
+- Average area income
+- Average area house age
+- Average area number of rooms
+- Average area number of bedrooms
+- Area population
+- Price
+- Address
+
+</details>
+
 ### Loan Prediction
 Enter github link here. Enter jupyter notebook link here.
 
 Enter description here.
 
+<details>
+ <summary><b>Spam text messages classification</b></summary>
+The link to this notebook: https://github.com/vincentlam13/code/blob/master/natural-language-processing/spam-sms-NLP.ipynb
+
+This notebook was created in conjunction with the Data Science Bootcamp course. The aim of the notebook is to classify SMS messages into whether they are spam or legitimate messages.
+</details>
 
 ## Natural Lanugage Processing
 
@@ -211,11 +232,12 @@ This notebook was created in conjunction with the Data Science Bootcamp course. 
 
 ## Clustering
 ### Clustering with KMeans
-Enter github link here. Enter jupyter notebook link here.
 
-Enter description here.
+<details>
+ <summary><b>University clustering</b></summary>
+The link to this notebook: https://github.com/vincentlam13/code/blob/master/natural-language-processing/spam-sms-NLP.ipynb
 
-University clustering
+This notebook was created in conjunction with the Data Science Bootcamp course. The aim of the notebook is to cluster universities into being a private or public school. 
 
 ## Neural networks
 

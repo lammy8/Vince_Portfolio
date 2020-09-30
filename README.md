@@ -156,17 +156,22 @@ Enter description here.
  
  ![Wordcloud of positive reviews](images/amazon-sentiment-wordcloud-useful.png)
  ![Wordcloud of negative reviews](images/amazon-sentiment-wordcloud-useless.png)
- 
 </details>
 
-### Bag of Words
-Enter github link here. Enter jupyter notebook link here.
 
-Enter description here.
+<details>
+ <summary><b>Yelp reviews classification</b></summary>
+The link to this notebook: https://github.com/vincentlam13/code/blob/master/natural-language-processing/yelp-reviews-NLP.ipynb
 
-### Spam text messages
+This notebook was created in conjunction with the Data Science Bootcamp course. The aim of the notebook is to classify Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews. 
+</details>
 
-### Yelp reviews
+<details>
+ <summary><b>Spam text messages classifier reviews classification</b></summary>
+The link to this notebook: https://github.com/vincentlam13/code/blob/master/natural-language-processing/spam-sms-NLP.ipynb
+
+This notebook was created in conjunction with the Data Science Bootcamp course. The aim of the notebook is to classify SMS messages into whether they are spam or legitimate messages.
+</details>
 
 ## Clustering
 ### Clustering with KMeans

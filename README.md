@@ -237,6 +237,7 @@ This notebook was created in conjunction with the Data Science Bootcamp course. 
 The link to this notebook: https://github.com/vincentlam13/code/blob/master/natural-language-processing/spam-sms-NLP.ipynb
 
 This notebook was created in conjunction with the Data Science Bootcamp course. The aim of the notebook is to cluster universities into being a private or public school. 
+</details>
 
 ## Neural networks
 
@@ -266,13 +267,56 @@ The TensorFlow model consisted of:
 
 Link to notebook: https://github.com/vincentlam13/code/blob/master/deep-learning/TensorFlow/house-price-predictor-TF-regression.ipynb
 
-This notebook was created in conjunction with the Data Science Bootcamp course.
+This notebook was created in conjunction with the Data Science Bootcamp course. This notebook predicts US house prices using TensorFlow linear regression by using many housing features.
+
+#### Geographical visualisation of house prices
+
+The below figure shows that Seattle houses are more expensive when they are waterfront properties.
+
+![Visualisation of house prices by coordinates](/images/house-tensorflow-geo-price.png)
+
+#### House price predictions
+
+The below figure shows how the top 1% houses are skewing the predictions. The mode could be retrained on only the bottom 99% of houses.
+
+![House price prediction](/images/house-tensorflow-predictions.png)
+
+#### Model losses
+
+The figure below shows that the loss and validation loss plots are similar and have no spikes, this means that there can be further training without risk of overfitting to the training data.
+
+![House price prediction](/images/house-tensorflow-losses.png)
 
 </details>
 
-Bank Note Authentication - TensorFlow
+<details>
+ <summary><b>Bank Note Authentication TensorFlow Classification</b></summary>
+ 
+The link to this notebook: https://github.com/vincentlam13/code/blob/master/deep-learning/TensorFlow/bank-note-authentication-TF.ipynb
 
-Loan Repayment Predictor - TensorFlow
+
+This notebook was created in conjunction with the Data Science Bootcamp course. The aim of this notebook is to predict whether or not a bank note is authentic or not based on the features of the bank note. The Bank Authentication dataset is from the UCI repository.
+
+The data consists of 5 columns:
+- variance of Wavelet Transformed image (continuous)
+- skewness of Wavelet Transformed image (continuous)
+- curtosis of Wavelet Transformed image (continuous)
+- entropy of image (continuous)
+- class (integer)
+
+Where class indicates whether or not a Bank Note was authentic.
+</details>
+
+
+<details>
+ <summary><b>Loan Lending Predictor with TensorFlow</b></summary>
+
+Link to notebook: https://github.com/vincentlam13/code/blob/master/deep-learning/TensorFlow/Loan-lending-predictor-tensorflow.ipynb
+
+
+This notebook was created in conjunction with the Data Science Bootcamp course. The aim of this notebook is to predict whether or not a new potential customer will be able to pay back their loan.
+
+</details>
 
 Movie Review Text Classification - TensorFlow
 

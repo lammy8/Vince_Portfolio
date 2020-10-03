@@ -349,4 +349,4 @@ This notebook was created in conjunction with the Data Science Bootcamp course. 
   * [Automate the Boring Stuff with Python Programming](https://www.udemy.com/certificate/UC-4dd14984-5141-4d50-8d38-dfe7af4906b1/) (May 2020) (Udemy - Al Sweigart)
   
 * Analytics
- * Google Analytics for Beginners (August 2020)
+  * Google Analytics for Beginners (August 2020)

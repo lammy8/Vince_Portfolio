@@ -86,12 +86,6 @@ Used data from European Centre for Disease Prevention and Control to analyse tre
 Visualisation of the infamous 'R' value.
 </details>
 
-### London House Price Predictor
-
-
-### London data scientist salary predictor
-Enter text here.
-
 
 ## Classification problems
 
@@ -208,6 +202,24 @@ This notebook was created in conjunction with the Data Science Bootcamp course. 
  
  ![Wordcloud of positive reviews](images/amazon-sentiment-wordcloud-useful.png)
  ![Wordcloud of negative reviews](images/amazon-sentiment-wordcloud-useless.png)
+</details>
+
+<details>
+ <summary><b>Traditional Text Classification</b></summary>
+ 
+The link to this notebook: https://github.com/vincentlam13/code/blob/master/natural-language-processing/text%20classification%20with%20scikit-learn%20and%20grid%20search.ipynb
+
+
+This notebook explores traditional approaches to text classification, using Naive Bayes, Support Vector Machines, and Logistic Regression classifiers. These approaches were used before deep learning was applied to Natural Language Processing. These methods are still quick and effective for training a text classifier. The data set used in this notebook is the 20 Newsgroups data set, which is a classic collection of text documents that is often used as a benchmark for text classification models. The set contains texts about differing topics.
+
+ #### Confusion matrix for SVM text classifier
+
+ ![Confusion matrix for SVM text classifier](images/text-classification-svm-confusion-matrix.png)
+ 
+ ### eli5 visualisation of best feature weightings for each class
+ 
+ ![Feature weightings](images/text-classification-svm-eli5.png)
+
 </details>
 
 

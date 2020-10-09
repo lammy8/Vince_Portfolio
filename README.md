@@ -7,7 +7,7 @@ This portfolio is a collection of notebooks which I have created to further my k
  <summary><b>Climbing crag selector</b></summary>
  Link to project: https://github.com/vincentlam13/climbing-crag-selection
  
- - Created a tool to help decide which climbing crags to focus on for future climbing trips, with the goal to improve the climbing grades of my friends and I.
+- Created a tool to help decide which climbing crags to focus on for future climbing trips, with the goal to improve the climbing grades of my friends and I.
 - Scraped over 4000 routes/problems for the climbing destination in question.
 - I will update this repositry as I analyse more climbing destinations and update whether my efforts were successful.
 
@@ -88,6 +88,43 @@ Visualisation of the infamous 'R' value.
 
 
 ## Classification problems
+<details>
+ <summary><b>Telecoms Customer Churn Predictor</b></summary>
+ 
+The link to this notebook: https://github.com/vincentlam13/code/blob/master/machine-learning/classification/Telecoms%20Churn%20Prediction.ipynb
+ 
+Churn is a large issue in the telecomms industry. The aim of this notebook is to predict customer behaviour and maximimse customer retention and prevent churning. The following models were trained and evaluated:
+- Logistic regression
+- Random forest
+- Support vector machines
+- ADA Boost
+- XG Boost
+
+### EDA
+
+#### Churn by Telecom Service Type
+
+![Churn by Telecom Service Type](images/telecoms-service.churn.png)
+
+#### Churn by Contract Type
+
+![Churn by Contract Type](images/telecoms-contract.churn.png)
+
+### Evaluation
+
+#### Random Forest Feature Weightings
+
+![Random Forest Feature Weightings](images/telecoms-random-forest-weights.png)
+
+
+### Conclusion
+AdaBoost classifier provided the highest classifier accuracy. However, accuracy is not necessarily the best metric for comparing models, as accuracy as a metric defines a false positive error and false negative error as equals which is rarely the case in business scenarios.
+
+For example it would be better for a telecoms company if a false positive occurred than a false negative. In this scenario, a false positive is when a customer is wrongly predicted to churn and then receive communications to prevent them from churning. Whereas a false negative would mean a customer that should have been contacted to prevent churning was not and did end up churning, whcih will end up costing the business.
+
+Using this metric of minimising false negatives, we see that SVM is the best performing algorithm.
+
+</details>
 
 ### Logistic Regression
 <details>

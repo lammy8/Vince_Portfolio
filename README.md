@@ -282,6 +282,16 @@ This notebook was created in conjunction with the Data Science Bootcamp course. 
 ### Clustering with KMeans
 
 <details>
+ <summary><b>Online retail customer clustering with K-Means and hierarchical clustering</b></summary>
+The link to this notebook: https://github.com/vincentlam13/code/blob/master/machine-learning/clustering/K-Means/Online%20retail%20clustering.ipynb
+
+The aim of this notebook is to use a cluster the online retail customers for targeted marketing oppurtunities.
+
+The data consists of transactions for a UK online retail store that specialises in gifts.
+
+</details>
+
+<details>
  <summary><b>University clustering</b></summary>
 The link to this notebook: https://github.com/vincentlam13/code/blob/master/natural-language-processing/spam-sms-NLP.ipynb
 

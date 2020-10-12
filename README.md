@@ -150,6 +150,14 @@ This notebook was created in conjunction with the Data Science Bootcamp course. 
 ### Random Forest
 
 <details>
+ <summary><b>Sales predictor with random forest regressor pipeline</b></summary>
+ 
+The link to this notebook: https://github.com/vincentlam13/code/blob/master/machine-learning/classification/random-forest/sales-predictor%20with%20pipeline.ipynb
+
+
+The aim of this notebook is to predict Big Mart sales, through the use of information about the stores, products, and historical sales data. A machine learning pipeline will be used to automate the iterative processing steps.</details>
+
+<details>
  <summary><b>Kyphosis Random Forest Classification</b></summary>
  
 The link to this notebook: https://github.com/vincentlam13/code/blob/master/machine-learning/classification/random-forest/kyphosis-with-decision-trees-and-random-forest.ipynb

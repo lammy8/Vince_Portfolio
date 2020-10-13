@@ -242,7 +242,7 @@ The purpose of this notebook is to make a prediction model that predicts whether
 - Bernouli Naive Bayes Classifier
 - Logistic Regression
 
-[Link](https://github.com/vincentlam13/code/blob/master/natural-language-processing/sentiment-analysis/amazon-reviews-sentiment-analysis/amazon-reviews-sentiment-analysis.ipynb) to project.
+[Link](https://github.com/vincentlam13/code/blob/master/natural-language-processing/sentiment-analysis/amazon-reviews-sentiment-analysis/amazon-reviews-sentiment-analysis.ipynb) to project. The data has been provided on [kaggle.](https://www.kaggle.com/snap/amazon-fine-food-reviews) This notebook follows the example by [Eugen Anghel.](https://www.kaggle.com/eugen1701/predicting-sentiment-and-helpfulness)
 
  ![ROC Curve Classifier Comparison](images/amazon-sentiment-classifier-comparison.png)
  
@@ -259,7 +259,7 @@ The purpose of this notebook is to make a prediction model that predicts whether
 
 This notebook explores traditional approaches to text classification, using Naive Bayes, Support Vector Machines, and Logistic Regression classifiers. These approaches were used before deep learning was applied to Natural Language Processing. These methods are still quick and effective for training a text classifier. The data set used in this notebook is the 20 Newsgroups data set, which is a classic collection of text documents that is often used as a benchmark for text classification models. The set contains texts about differing topics. 
 
-The link to this notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/natural-language-processing/text%20classification%20with%20scikit-learn%20and%20grid%20search.ipynb)
+The link to this notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/natural-language-processing/text%20classification%20with%20scikit-learn%20and%20grid%20search.ipynb) This notebook follows the example of [Yves Peirsman.](https://github.com/nlptown/nlp-notebooks/blob/master/Traditional%20text%20classification%20with%20Scikit-learn.ipynb)
 
  #### Confusion matrix for SVM text classifier
 
@@ -302,7 +302,7 @@ This notebook was created in conjunction with the Data Science Bootcamp course.
 The aim of this notebook is to use a cluster the online retail customers for targeted marketing oppurtunities.
 The data consists of transactions for a UK online retail store that specialises in gifts.
 
-The link to this notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/machine-learning/clustering/K-Means/Online%20retail%20clustering.ipynb)
+The link to this notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/machine-learning/clustering/K-Means/Online%20retail%20clustering.ipynb) This notebook uses data provided on [Kaggle](https://www.kaggle.com/hellbuoy/online-retail-customer-clustering) and follows the example by [Manish Kumar.](https://www.kaggle.com/hellbuoy/online-retail-k-means-hierarchical-clustering)
 
 </details>
 
@@ -356,7 +356,7 @@ The figure below shows that the loss and validation loss plots are similar and h
  
 This notebook uses TensorFlow neural networks to solve the Sentiment Analysis on Movie Reviews Kaggle competition. The dataset contains syntactic subphrases of Rotten Tomatoes movie reviews. The task is to label the phrases as positive or negative on a scale from 1 to 5. The aim is not label the entire review, but individual phrases from within the reviews, which is a more difficult task. 
 
-Link to notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/deep-learning/TensorFlow/movie-reviews-TF-text-classification.ipynb)
+Link to notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/deep-learning/TensorFlow/movie-reviews-TF-text-classification.ipynb) This notebook follows a TensorFlow [tutorial.](https://www.tensorflow.org/hub/tutorials/tf2_text_classification)
 
 
 </details>

@@ -4,6 +4,30 @@ This portfolio is a collection of notebooks which I have created to further my k
 ## Personal projects
 
 <details>
+ <summary><b>COVID-19 analysis</b></summary>
+ 
+This notebook uses the daily global COVID-19 [data set](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) from the European Centre for Disease Prevention and Control (EUCDC), which contains information such as new cases and deaths per country per day.
+
+I want to further explore the Covid-19 situation in the UK as the UK government has announced stricter lockdown measures across the country due to increases in cases.
+
+#### Interactive visualisations using plotly
+![Animated choropleth of global spread](images/covid-animated-choropleth-global-spread.gif)
+
+#### Visualisation of the infamous 'R' value.
+![R-value of Covid-19 Cases in Europe](images/covid-R-values.png)
+
+#### Number of active cases
+![Active Covid-19 Cases in Europe](images/covid-europe-cases.png)
+
+#### Proportion of global deaths
+![Global Covid-19 deaths by proportion](images/covid-global-death-proportion.png)
+
+The links for these notebooks can be found [here](https://github.com/vincentlam13/code/blob/master/data-visualisation/matplotlib/EUCDC-covid-19-analysis/COVID-19%20analysis%20of%20EUCDC%20data.ipynb) and [here.](https://github.com/vincentlam13/code/blob/master/data-visualisation/plotly/COVID-19_analysis/global_COVID-19_analysis.ipynb)
+
+</details>
+
+
+<details>
  <summary><b>Climbing crag selector</b></summary>
  
 Overview of the project: 
@@ -80,28 +104,6 @@ Project overview:
 </details>
 
 
-<details>
- <summary><b>COVID-19 analysis</b></summary>
- 
-This notebook uses the daily global COVID-19 [data set](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) from the European Centre for Disease Prevention and Control (EUCDC), which contains information such as new cases and deaths per country per day.
-
-I want to further explore the Covid-19 situation in the UK as the UK government has announced stricter lockdown measures across the country due to increases in cases.
-
-#### Interactive visualisations using plotly
-![Animated choropleth of global spread](images/covid-animated-choropleth-global-spread.gif)
-
-#### Visualisation of the infamous 'R' value.
-![R-value of Covid-19 Cases in Europe](images/covid-R-values.png)
-
-#### Number of active cases
-![Active Covid-19 Cases in Europe](images/covid-europe-cases.png)
-
-#### Proportion of global deaths
-![Global Covid-19 deaths by proportion](images/covid-global-death-proportion.png)
-
-The links for these notebooks can be found [here](https://github.com/vincentlam13/code/blob/master/data-visualisation/matplotlib/EUCDC-covid-19-analysis/COVID-19%20analysis%20of%20EUCDC%20data.ipynb) and [here.](https://github.com/vincentlam13/code/blob/master/data-visualisation/plotly/COVID-19_analysis/global_COVID-19_analysis.ipynb)
-
-</details>
 
 
 ## Classification problems
@@ -216,33 +218,7 @@ The link to this notebook can be found [here.](https://github.com/vincentlam13/c
 
 </details>
 
-## Linear Regression
-<details>
- <summary><b>House Price Prediction</b></summary>
 
-The aim of the notebook is to predict US house prices using linear regression, based on a number of features:
-- Average area income
-- Average area house age
-- Average area number of rooms
-- Average area number of bedrooms
-- Area population
-- Price
-- Address
-
-The link to this notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/machine-learning/regression/linear-regression/US-housing-linear-regression.ipynb) This notebook was created in conjunction with the Data Science Bootcamp course. 
-
-</details>
-
-
-<details>
- <summary><b>Ecommerce User Experience Linear Regression</b></summary>
-
- An Ecommerce company based in New York City that sells clothing online but they also have in-store style and clothing advice sessions. Customers come in to the store, have sessions/meetings with a personal stylist, then they can go home and order either on a mobile app or website for the clothes they want. The company is trying to decide whether to focus their efforts on their mobile app experience or their website. This notebook aims to solve their problem.
- 
-The link to this notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/machine-learning/regression/linear-regression/ecommerce-linear-regression.ipynb)
-This notebook was created in conjunction with the Data Science Bootcamp course.
-
-</details>
 
 ## Natural Lanugage Processing
 
@@ -327,6 +303,34 @@ The link to this notebook can be found [here.](https://github.com/vincentlam13/c
  
  The link to this notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/natural-language-processing/spam-sms-NLP.ipynb) 
 This notebook was created in conjunction with the Data Science Bootcamp course. The aim of the notebook is to cluster universities into being a private or public school. 
+
+</details>
+
+## Linear Regression
+<details>
+ <summary><b>House Price Prediction</b></summary>
+
+The aim of the notebook is to predict US house prices using linear regression, based on a number of features:
+- Average area income
+- Average area house age
+- Average area number of rooms
+- Average area number of bedrooms
+- Area population
+- Price
+- Address
+
+The link to this notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/machine-learning/regression/linear-regression/US-housing-linear-regression.ipynb) This notebook was created in conjunction with the Data Science Bootcamp course. 
+
+</details>
+
+
+<details>
+ <summary><b>Ecommerce User Experience Linear Regression</b></summary>
+
+ An Ecommerce company based in New York City that sells clothing online but they also have in-store style and clothing advice sessions. Customers come in to the store, have sessions/meetings with a personal stylist, then they can go home and order either on a mobile app or website for the clothes they want. The company is trying to decide whether to focus their efforts on their mobile app experience or their website. This notebook aims to solve their problem.
+ 
+The link to this notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/machine-learning/regression/linear-regression/ecommerce-linear-regression.ipynb)
+This notebook was created in conjunction with the Data Science Bootcamp course.
 
 </details>
 

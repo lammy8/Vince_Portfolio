@@ -82,11 +82,25 @@ Project overview:
 
 <details>
  <summary><b>COVID-19 analysis</b></summary>
-Interactive visualisations using plotly library.
+ 
+This notebook uses the daily global COVID-19 [data set](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) from the European Centre for Disease Prevention and Control (EUCDC), which contains information such as new cases and deaths per country per day.
 
-Used data from European Centre for Disease Prevention and Control to analyse trends around the world and in the UK.
+I want to further explore the Covid-19 situation in the UK as the UK government has announced stricter lockdown measures across the country due to increases in cases.
 
-Visualisation of the infamous 'R' value.
+#### Interactive visualisations using plotly
+![Animated choropleth of global spread](images/covid-animated-choropleth-global-spread.gif)
+
+#### Visualisation of the infamous 'R' value.
+![R-value of Covid-19 Cases in Europe](images/covid-R-values.png)
+
+#### Number of active cases
+![Active Covid-19 Cases in Europe](images/covid-europe-cases.png)
+
+#### Proportion of global deaths
+![Global Covid-19 deaths by proportion](images/covid-global-death-proportion.png)
+
+The links for these notebooks can be found [here](https://github.com/vincentlam13/code/blob/master/data-visualisation/matplotlib/EUCDC-covid-19-analysis/COVID-19%20analysis%20of%20EUCDC%20data.ipynb) and [here.](https://github.com/vincentlam13/code/blob/master/data-visualisation/plotly/COVID-19_analysis/global_COVID-19_analysis.ipynb)
+
 </details>
 
 

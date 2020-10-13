@@ -5,7 +5,7 @@ This portfolio is a collection of notebooks which I have created to further my k
 
 <details>
  <summary><b>Climbing crag selector</b></summary>
- Link to project: https://github.com/vincentlam13/climbing-crag-selection
+ [Link](https://github.com/vincentlam13/climbing-crag-selection) to project. 
  
 - Created a tool to help decide which climbing crags to focus on for future climbing trips, with the goal to improve the climbing grades of my friends and I.
 - Scraped over 4000 routes/problems for the climbing destination in question.
@@ -54,7 +54,7 @@ Based on this data analysis we will be going to Blacknor South, Winspit, and Che
 
 <details>
  <summary><b>Golf tournament predictor</b></summary>
- Link to project: https://github.com/vincentlam13/golf-tournament-predictor
+ [Link](https://github.com/vincentlam13/golf-tournament-predictor) to project. 
  
  
  - Created a tool to predict likely winners of PGA tournaments.
@@ -91,14 +91,18 @@ Visualisation of the infamous 'R' value.
 <details>
  <summary><b>Telecoms Customer Churn Predictor</b></summary>
  
-The link to this notebook: https://github.com/vincentlam13/code/blob/master/machine-learning/classification/Telecoms%20Churn%20Prediction.ipynb
- 
+[Link](https://github.com/vincentlam13/code/blob/master/machine-learning/classification/Telecoms%20Churn%20Prediction.ipynb) to this notebook. 
+
 Churn is a large issue in the telecomms industry. The aim of this notebook is to predict customer behaviour and maximimse customer retention and prevent churning. The following models were trained and evaluated:
 - Logistic regression
 - Random forest
 - Support vector machines
 - ADA Boost
 - XG Boost
+
+
+This IBM Sample data set has been provided at the following [link.](https://www.kaggle.com/blastchar/telco-customer-churn) This notebook follows the example by [Atindrabandi.](https://www.kaggle.com/bandiatindra/telecom-churn-prediction)
+
 
 ### EDA
 
@@ -130,7 +134,7 @@ Using this metric of minimising false negatives, we see that SVM is the best per
 <details>
  <summary><b>Titanic Survivor Logistic Classifcation</b></summary>
  
-The link to this notebook: https://github.com/vincentlam13/code/blob/master/machine-learning/regression/logistic-regression/titanic-logistic.ipynb
+The [link](https://github.com/vincentlam13/code/blob/master/machine-learning/regression/logistic-regression/titanic-logistic.ipynb) to this notebook. 
  
 
 This notebook was created in conjunction with the Data Science Bootcamp course. The aim of the notebook is to use logistic regression to classify whether or not a passenger on the Titanic survived based on passenger information.
@@ -140,7 +144,7 @@ This notebook was created in conjunction with the Data Science Bootcamp course. 
 <details>
  <summary><b>Advert Click Logistic Classifcation</b></summary>
  
-The link to this notebook: https://github.com/vincentlam13/code/blob/master/machine-learning/regression/logistic-regression/advertising-data.ipynb
+The link to this notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/machine-learning/regression/logistic-regression/advertising-data.ipynb)
 
 
 This notebook was created in conjunction with the Data Science Bootcamp course. The aim of the notebook is to classify whether or not a particular internet user clicked on an Advertisement. A logistic regression model will predict whether or not they will click on an ad based off the features of that user.
@@ -152,15 +156,16 @@ This notebook was created in conjunction with the Data Science Bootcamp course. 
 <details>
  <summary><b>Sales predictor with random forest regressor pipeline</b></summary>
  
-The link to this notebook: https://github.com/vincentlam13/code/blob/master/machine-learning/classification/random-forest/sales-predictor%20with%20pipeline.ipynb
+The aim of this notebook is to predict Big Mart sales, through the use of information about the stores, products, and historical sales data. A machine learning pipeline will be used to automate the iterative processing steps.
 
+This notebook uses the [BigMart Sales data](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/) and follows the example by [Lakshay Arora.](https://www.analyticsvidhya.com/blog/2020/01/build-your-first-machine-learning-pipeline-using-scikit-learn/)
 
-The aim of this notebook is to predict Big Mart sales, through the use of information about the stores, products, and historical sales data. A machine learning pipeline will be used to automate the iterative processing steps.</details>
+</details>
 
 <details>
  <summary><b>Kyphosis Random Forest Classification</b></summary>
  
-The link to this notebook: https://github.com/vincentlam13/code/blob/master/machine-learning/classification/random-forest/kyphosis-with-decision-trees-and-random-forest.ipynb
+The link to this notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/machine-learning/classification/random-forest/kyphosis-with-decision-trees-and-random-forest.ipynb)
 
 
 This notebook was created in conjunction with the Data Science Bootcamp course. The aim of the notebook is to classify whether or not a child has Kyphosis, a spinal condition, based on their age in months and number of vertebrae involved in the operation. This notebook compares the results between a decision tree and random forest classifier.
@@ -169,8 +174,9 @@ This notebook was created in conjunction with the Data Science Bootcamp course. 
 ### XGBoost
 <details>
 <summary>Hourly Energy Consumption Forecasting</summary>
-
-Enter findings and summary
+The aim of this notebook is to predict hourly power consumption based on data from PJM using time series forecasting with XGBoost. Link for this notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/machine-learning/classification/xgboost/hourly-energy-consumption-forecasting/hourly%20energy%20consumption%20forecasting%20with%20XGBoost.ipynb)
+ 
+This notebook uses data from the following [link](https://www.kaggle.com/robikscube/hourly-energy-consumption) and follows the example of [Rob Muller.](https://www.kaggle.com/robikscube/tutorial-time-series-forecasting-with-xgboost)
 
 </details>
 
@@ -179,7 +185,7 @@ Enter findings and summary
 <details>
  <summary><b>Breast Cancer SVM Classification</b></summary>
  
-The link to this notebook: https://github.com/vincentlam13/code/blob/master/machine-learning/classification/support-vector-machines/breast-cancer-SVM.ipynb
+The link to this notebook can be [here.](https://github.com/vincentlam13/code/blob/master/machine-learning/classification/support-vector-machines/breast-cancer-SVM.ipynb)
 
 
 This notebook was created in conjunction with the Data Science Bootcamp course.
@@ -191,7 +197,7 @@ Used Support Vector Machine classifier to predict whether a patient's breast can
 <details>
  <summary><b>Iris Flower SVM Classification</b></summary>
  
-The link to this notebook: https://github.com/vincentlam13/code/blob/master/machine-learning/classification/support-vector-machines/iris-flower-SVM.ipynb
+The link to this notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/machine-learning/classification/support-vector-machines/iris-flower-SVM.ipynb)
 
 
 This notebook was created in conjunction with the Data Science Bootcamp course. The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor), so 150 total samples. Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters. This notebook uses these four features to predict what type of iris flower it is, using a support vector machine classifier.
@@ -201,7 +207,7 @@ This notebook was created in conjunction with the Data Science Bootcamp course. 
 <details>
  <summary><b>House Price Prediction</b></summary>
  
-The link to this notebook: https://github.com/vincentlam13/code/blob/master/machine-learning/regression/linear-regression/US-housing-linear-regression.ipynb
+The link to this notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/machine-learning/regression/linear-regression/US-housing-linear-regression.ipynb)
 
 
 This notebook was created in conjunction with the Data Science Bootcamp course. The aim of the notebook is to predict US house prices based on a number of features:
@@ -218,7 +224,7 @@ This notebook was created in conjunction with the Data Science Bootcamp course. 
 
 <details>
  <summary><b>Ecommerce User Experience Linear Regression</b></summary>
-The link to this notebook: https://github.com/vincentlam13/code/blob/master/machine-learning/regression/linear-regression/ecommerce-linear-regression.ipynb
+The link to this notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/machine-learning/regression/linear-regression/ecommerce-linear-regression.ipynb)
 
 
 This notebook was created in conjunction with the Data Science Bootcamp course. An Ecommerce company based in New York City that sells clothing online but they also have in-store style and clothing advice sessions. Customers come in to the store, have sessions/meetings with a personal stylist, then they can go home and order either on a mobile app or website for the clothes they want. The company is trying to decide whether to focus their efforts on their mobile app experience or their website. This notebook aims to solve their problem.
@@ -230,9 +236,7 @@ This notebook was created in conjunction with the Data Science Bootcamp course. 
 <details>
  <summary><b>Amazon Fine Foods Sentiment Analysis</b></summary>
  
- Link to project: https://github.com/vincentlam13/code/blob/master/natural-language-processing/sentiment-analysis/amazon-reviews-sentiment-analysis/amazon-reviews-sentiment-analysis.ipynb
- 
- The purpose of this notebook is to make a prediction model that predicts whether a recommendation is positive or negative. This will be achieved by building a Term-document incidence matrix using term frequency and inverse document frequency.
+The purpose of this notebook is to make a prediction model that predicts whether a recommendation is positive or negative. This will be achieved by building a Term-document incidence matrix using term frequency and inverse document frequency. [Link](https://github.com/vincentlam13/code/blob/master/natural-language-processing/sentiment-analysis/amazon-reviews-sentiment-analysis/amazon-reviews-sentiment-analysis.ipynb) to project.
  
  The performance of three machine learning algorithms were compared and visualised with a ROC curve:
  - Multinomial Naive Bayes Classifier
@@ -251,11 +255,8 @@ This notebook was created in conjunction with the Data Science Bootcamp course. 
 
 <details>
  <summary><b>Traditional Text Classification</b></summary>
- 
-The link to this notebook: https://github.com/vincentlam13/code/blob/master/natural-language-processing/text%20classification%20with%20scikit-learn%20and%20grid%20search.ipynb
 
-
-This notebook explores traditional approaches to text classification, using Naive Bayes, Support Vector Machines, and Logistic Regression classifiers. These approaches were used before deep learning was applied to Natural Language Processing. These methods are still quick and effective for training a text classifier. The data set used in this notebook is the 20 Newsgroups data set, which is a classic collection of text documents that is often used as a benchmark for text classification models. The set contains texts about differing topics.
+This notebook explores traditional approaches to text classification, using Naive Bayes, Support Vector Machines, and Logistic Regression classifiers. These approaches were used before deep learning was applied to Natural Language Processing. These methods are still quick and effective for training a text classifier. The data set used in this notebook is the 20 Newsgroups data set, which is a classic collection of text documents that is often used as a benchmark for text classification models. The set contains texts about differing topics. The link to this notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/natural-language-processing/text%20classification%20with%20scikit-learn%20and%20grid%20search.ipynb)
 
  #### Confusion matrix for SVM text classifier
 
@@ -271,7 +272,7 @@ This notebook explores traditional approaches to text classification, using Naiv
 <details>
  <summary><b>Yelp reviews classification</b></summary>
  
-The link to this notebook: https://github.com/vincentlam13/code/blob/master/natural-language-processing/yelp-reviews-NLP.ipynb
+The link to this notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/natural-language-processing/yelp-reviews-NLP.ipynb)
 
 
 This notebook was created in conjunction with the Data Science Bootcamp course. The aim of the notebook is to classify Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews. 
@@ -280,7 +281,7 @@ This notebook was created in conjunction with the Data Science Bootcamp course. 
 <details>
  <summary><b>Spam text messages classification</b></summary>
  
-The link to this notebook: https://github.com/vincentlam13/code/blob/master/natural-language-processing/spam-sms-NLP.ipynb
+The link to this notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/natural-language-processing/spam-sms-NLP.ipynb)
 
 
 This notebook was created in conjunction with the Data Science Bootcamp course. The aim of the notebook is to classify SMS messages into whether they are spam or legitimate messages.
@@ -291,7 +292,7 @@ This notebook was created in conjunction with the Data Science Bootcamp course. 
 
 <details>
  <summary><b>Online retail customer clustering with K-Means and hierarchical clustering</b></summary>
-The link to this notebook: https://github.com/vincentlam13/code/blob/master/machine-learning/clustering/K-Means/Online%20retail%20clustering.ipynb
+The link to this notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/machine-learning/clustering/K-Means/Online%20retail%20clustering.ipynb)
 
 The aim of this notebook is to use a cluster the online retail customers for targeted marketing oppurtunities.
 
@@ -301,7 +302,7 @@ The data consists of transactions for a UK online retail store that specialises 
 
 <details>
  <summary><b>University clustering</b></summary>
-The link to this notebook: https://github.com/vincentlam13/code/blob/master/natural-language-processing/spam-sms-NLP.ipynb
+The link to this notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/natural-language-processing/spam-sms-NLP.ipynb)
 
 This notebook was created in conjunction with the Data Science Bootcamp course. The aim of the notebook is to cluster universities into being a private or public school. 
 </details>
@@ -313,7 +314,7 @@ This notebook was created in conjunction with the Data Science Bootcamp course. 
 <details>
  <summary><b>House Price Predictor with TensorFlow</b></summary>
 
-Link to notebook: https://github.com/vincentlam13/code/blob/master/deep-learning/TensorFlow/house-price-predictor-TF-regression.ipynb
+Link to notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/deep-learning/TensorFlow/house-price-predictor-TF-regression.ipynb)
 
 This notebook was created in conjunction with the Data Science Bootcamp course. This notebook predicts US house prices using TensorFlow linear regression by using many housing features.
 
@@ -342,7 +343,7 @@ The figure below shows that the loss and validation loss plots are similar and h
 <details>
  <summary><b>IMDB Reviews Sentiment Analysis</b></summary>
 
-Link to notebook: https://github.com/vincentlam13/code/blob/master/deep-learning/TensorFlow/movie-reviews-TF-text-classification.ipynb
+Link to notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/deep-learning/TensorFlow/movie-reviews-TF-text-classification.ipynb)
 
 Used TensorFlow neural networks to solve the Sentiment Analysis on Movie Reviews Kaggle competition. The dataset contains syntactic subphrases of Rotten Tomatoes movie reviews. The task is to label the phrases as positive or negative on a scale from 1 to 5. The aim is not label the entire review, but individual phrases from within the reviews, which is a more difficult task.
 
@@ -351,7 +352,7 @@ Used TensorFlow neural networks to solve the Sentiment Analysis on Movie Reviews
 <details>
  <summary><b>Breast Cancer Classification using TensorFlow</b></summary>
 
-Link to notebook: https://github.com/vincentlam13/code/blob/master/deep-learning/TensorFlow/breast-cancer-TF-classification.ipynb
+Link to notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/deep-learning/TensorFlow/breast-cancer-TF-classification.ipynb)
 
 This notebook was created in conjunction with the Data Science Bootcamp course.
 Used TensorFlow neural networks to classify patients' breast cancer as benign or malignant based on the size of the breast tumours features. 
@@ -371,7 +372,7 @@ The TensorFlow model consisted of:
 <details>
  <summary><b>Bank Note Authentication TensorFlow Classification</b></summary>
  
-The link to this notebook: https://github.com/vincentlam13/code/blob/master/deep-learning/TensorFlow/bank-note-authentication-TF.ipynb
+The link to this notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/deep-learning/TensorFlow/bank-note-authentication-TF.ipynb)
 
 
 This notebook was created in conjunction with the Data Science Bootcamp course. The aim of this notebook is to predict whether or not a bank note is authentic or not based on the features of the bank note. The Bank Authentication dataset is from the UCI repository.
@@ -390,7 +391,7 @@ Where class indicates whether or not a Bank Note was authentic.
 <details>
  <summary><b>Loan Lending Predictor with TensorFlow</b></summary>
 
-Link to notebook: https://github.com/vincentlam13/code/blob/master/deep-learning/TensorFlow/Loan-lending-predictor-tensorflow.ipynb
+Link to notebook can be found [here.](https://github.com/vincentlam13/code/blob/master/deep-learning/TensorFlow/Loan-lending-predictor-tensorflow.ipynb)
 
 
 This notebook was created in conjunction with the Data Science Bootcamp course. The aim of this notebook is to predict whether or not a new potential customer will be able to pay back their loan.

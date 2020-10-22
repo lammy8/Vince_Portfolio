@@ -449,3 +449,6 @@ This notebook was created in conjunction with the Data Science Bootcamp course.
   
 * Analytics
   * Google Analytics for Beginners (August 2020)
+  * KPMG Data Analytics Consulting Virtual Internship (October 2020)
+  
+  

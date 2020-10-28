@@ -325,6 +325,18 @@ This notebook was created in conjunction with the Data Science Bootcamp course. 
 </details>
 
 ## Linear Regression
+
+<details>
+ <summary><b>Life Expectancy Predictor with PyTorch Linear Regression</b></summary>
+
+</details>
+
+<details>
+ <summary><b>Insurance Cost Predictor with PyTorch Linear Regression</b></summary>
+
+</details>
+
+
 <details>
  <summary><b>House Price Prediction</b></summary>
 

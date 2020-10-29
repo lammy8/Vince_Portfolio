@@ -16,7 +16,7 @@ The internship consisted of three stages:
 
 3. Data insights and Presentation - develop a Power BI dashboard to visualise insights for the client
 
-Link to notebook can be found [here.](https://github.com/vincentlam13/KPMG-virtual-internship/blob/main/kpmg-customer-segmentation.ipynb) 
+Link to notebook can be found [here.](https://nbviewer.jupyter.org/github/vincentlam13/KPMG-virtual-internship/blob/main/kpmg-customer-segmentation.ipynb) 
 The notebook shows the use of traditional RFM analysis (using quartiles and Jenks Natural Breaks), K-means clustering and HDBSCAN clustering to rank existing customers.
 
 </details>

@@ -482,6 +482,6 @@ This notebook was created in conjunction with the Data Science Bootcamp course.
   * KPMG Data Analytics Consulting Virtual Internship (October 2020)
 
 * Statistics
-  * [Data Science Math Skills](coursera.org/verify/3BTMH7PYJLK5) (December 2020) (Coursera - Duke University)
+  * [Data Science Math Skills](https://www.coursera.org/verify/3BTMH7PYJLK5) (December 2020) (Coursera - Duke University)
   
   
